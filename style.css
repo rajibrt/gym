@@ -226,3 +226,63 @@
     list-style: square;
 
 }
+
+/* work inquiry */
+.work-inquiry-container {
+    margin-top: 50px;
+    padding: 20px;
+    display: flex;
+}
+
+.work-title {
+    color: white;
+}
+
+.work-inquiry {
+    width: 700px;
+    margin: 0 auto;
+    height: 200px;
+    background-image: url("./images/shape/Group_33094_1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 25px;
+}
+
+.chat-btn {
+    padding: 12px 25px;
+    background-color: rgb(248, 246, 246);
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.chat-btn:hover {
+    background-color: blue;
+    color: white;
+}
+
+.our-service {
+    display: flex;
+}
+
+.product-section {
+    margin: 0 auto;
+
+}
+
+.cart {
+    width: 350px;
+    padding: 60px;
+
+
+}
+
+.price-and-join {
+    display: flex;
+    margin: 0 auto;
+}
